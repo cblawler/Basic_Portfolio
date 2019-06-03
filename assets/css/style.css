@@ -1,0 +1,45 @@
+/** basic_portfolio_style.css**/
+
+.nav-top {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-button {
+    list-style-type: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-bar-name {
+    float: left;
+}
+
+.nav-bar-item {
+    float: right;
+}
+
+.nav-bar-item:hover {
+    background-color: black;
+}
+
+header {
+    border-bottom: 2px;
+    border-bottom-color: darkgray;
+    border-style: solid;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+p {
+    padding: 20px;
+    margin: 20px;
+    
+}
